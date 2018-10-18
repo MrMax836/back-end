@@ -1,4 +1,7 @@
+out/
 .idea/
-target/
 *.class
 *.jar
+*.iml
+target/
+.git
